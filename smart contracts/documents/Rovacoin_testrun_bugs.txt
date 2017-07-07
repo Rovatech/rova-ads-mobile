@@ -1,0 +1,26 @@
+******************************************************************
+**          Rova Token Audit           
+******************************************************************
+
+
+2.1 Severe
+
+2.1.1 Call to an untrusted external
+
+2.2 Potential problems
+
+2.2.1 Possible loss of ownership
+
+2.2.3 Make backers data externally accessible
+
+2.2.4 Owner can corrupt the ICO by mistake
+
+2.2.5 Fallback emergency stop
+
+2.3 Warnings
+
+2.3.3 Code duplication
+
+2.3.4 Multisig destination limitations
+
+2.4 Minor issues & comments
